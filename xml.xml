@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+	<infNFe versao="4.00" Id="NFe35200710331198000140550010001164431221267048">
+		<ide>
+			<cUF>35</cUF>
+			<cNF>22126704</cNF>
+			<natOp>DEVOLUCAO FORA ESTADO</natOp>
+			<mod>55</mod>
+			<serie>1</serie>
+			<nNF>116443</nNF>
+			<dhEmi>2020-07-09T11:13:00-03:00</dhEmi>
+			<dhSaiEnt>2020-07-09T11:13:00-03:00</dhSaiEnt>
+			<tpNF>1</tpNF>
+			<idDest>2</idDest>
+			<cMunFG>3529005</cMunFG>
+			<tpImp>1</tpImp>
+			<tpEmis>1</tpEmis>
+			<cDV>8</cDV>
+			<tpAmb>2</tpAmb>
+			<finNFe>4</finNFe>
+			<indFinal>0</indFinal>
+			<indPres>9</indPres>
+			<procEmi>0</procEmi>
+			<verProc>BNFe4</verProc>
+			<NFref>
+				<refNFe>31200533163908008583550010000602771198989125</refNFe>
+			</NFref>
+		</ide>
+		<emit>
+			<CNPJ>10331198000140</CNPJ>
+			<xNome>MMP AUTOMACAO COMERCIAL LTDA ME</xNome>
+			<xFant>MMP AUTOMACAO</xFant>
+			<enderEmit>
+				<xLgr>RUA LIMEIRA</xLgr>
+				<nro>62</nro>
+				<xBairro>Palmital</xBairro>
+				<cMun>3529005</cMun>
+				<xMun>MARILIA</xMun>
+				<UF>SP</UF>
+				<CEP>17509170</CEP>
+				<cPais>1058</cPais>
+				<xPais>BRASIL</xPais>
+				<fone>1434133244</fone>
+			</enderEmit>
+			<IE>956224310481</IE>
+			<CRT>3</CRT>
+		</emit>
+		<dest>
+			<CNPJ>33163908008583</CNPJ>
+			<xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+			<enderDest>
+				<xLgr>ROD FERNAO DIAS S/N KM 942-700M-SALA</xLgr>
+				<nro>01</nro>
+				<xBairro>TENENTES</xBairro>
+				<cMun>3125101</cMun>
+				<xMun>EXTREMA</xMun>
+				<UF>MG</UF>
+				<CEP>37640000</CEP>
+				<cPais>1058</cPais>
+				<xPais>BRASIL</xPais>
+				<fone>1131810320</fone>
+			</enderDest>
+			<indIEDest>1</indIEDest>
+			<IE>0014761950021</IE>
+		</dest>
+		<autXML>
+			<CPF>00184100810</CPF>
+		</autXML>
+		<det nItem="1">
+			<prod>
+				<cProd>9132</cProd>
+				<cEAN>SEM GTIN</cEAN>
+				<xProd>CHOC. SICAO AO LEITE 2,1KG</xProd>
+				<NCM>18062000</NCM>
+				<CFOP>6202</CFOP>
+				<uCom>UN</uCom>
+				<qCom>20.0000</qCom>
+				<vUnCom>35.0761333000</vUnCom>
+				<vProd>701.52</vProd>
+				<cEANTrib>SEM GTIN</cEANTrib>
+				<uTrib>UN</uTrib>
+				<qTrib>20.0000</qTrib>
+				<vUnTrib>35.0761333000</vUnTrib>
+				<indTot>1</indTot>
+			</prod>
+			<imposto>
+				<vTotTrib>155.73</vTotTrib>
+				<ICMS>
+					<ICMS00>
+						<orig>0</orig>
+						<CST>00</CST>
+						<modBC>3</modBC>
+						<vBC>701.52</vBC>
+						<pICMS>12.0000</pICMS>
+						<vICMS>84.18</vICMS>
+					</ICMS00>
+				</ICMS>
+				<PIS>
+					<PISOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pPIS>0.0000</pPIS>
+						<vPIS>0.00</vPIS>
+					</PISOutr>
+				</PIS>
+				<COFINS>
+					<COFINSOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pCOFINS>0.0000</pCOFINS>
+						<vCOFINS>0.00</vCOFINS>
+					</COFINSOutr>
+				</COFINS>
+			</imposto>
+		</det>
+		<det nItem="2">
+			<prod>
+				<cProd>10892</cProd>
+				<cEAN>SEM GTIN</cEAN>
+				<xProd>COB. SICAO GOTAS AO LEITE 2,05KG</xProd>
+				<NCM>18062000</NCM>
+				<CFOP>6202</CFOP>
+				<uCom>UN</uCom>
+				<qCom>20.0000</qCom>
+				<vUnCom>23.5756154000</vUnCom>
+				<vProd>471.51</vProd>
+				<cEANTrib>SEM GTIN</cEANTrib>
+				<uTrib>UN</uTrib>
+				<qTrib>20.0000</qTrib>
+				<vUnTrib>23.5756154000</vUnTrib>
+				<indTot>1</indTot>
+			</prod>
+			<imposto>
+				<vTotTrib>104.67</vTotTrib>
+				<ICMS>
+					<ICMS00>
+						<orig>0</orig>
+						<CST>00</CST>
+						<modBC>3</modBC>
+						<vBC>471.51</vBC>
+						<pICMS>12.0000</pICMS>
+						<vICMS>56.58</vICMS>
+					</ICMS00>
+				</ICMS>
+				<PIS>
+					<PISOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pPIS>0.0000</pPIS>
+						<vPIS>0.00</vPIS>
+					</PISOutr>
+				</PIS>
+				<COFINS>
+					<COFINSOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pCOFINS>0.0000</pCOFINS>
+						<vCOFINS>0.00</vCOFINS>
+					</COFINSOutr>
+				</COFINS>
+			</imposto>
+		</det>
+		<det nItem="3">
+			<prod>
+				<cProd>15764</cProd>
+				<cEAN>SEM GTIN</cEAN>
+				<xProd>CHOC. SICAO BRANCO GOTAS 2,05KG F. DERRETIMENT</xProd>
+				<NCM>17049010</NCM>
+				<CFOP>6202</CFOP>
+				<uCom>UN</uCom>
+				<qCom>5.0000</qCom>
+				<vUnCom>39.7775556000</vUnCom>
+				<vProd>198.89</vProd>
+				<cEANTrib>SEM GTIN</cEANTrib>
+				<uTrib>UN</uTrib>
+				<qTrib>5.0000</qTrib>
+				<vUnTrib>39.7775556000</vUnTrib>
+				<indTot>1</indTot>
+			</prod>
+			<imposto>
+				<vTotTrib>48.83</vTotTrib>
+				<ICMS>
+					<ICMS00>
+						<orig>0</orig>
+						<CST>00</CST>
+						<modBC>3</modBC>
+						<vBC>198.89</vBC>
+						<pICMS>12.0000</pICMS>
+						<vICMS>23.87</vICMS>
+					</ICMS00>
+				</ICMS>
+				<PIS>
+					<PISOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pPIS>0.0000</pPIS>
+						<vPIS>0.00</vPIS>
+					</PISOutr>
+				</PIS>
+				<COFINS>
+					<COFINSOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pCOFINS>0.0000</pCOFINS>
+						<vCOFINS>0.00</vCOFINS>
+					</COFINSOutr>
+				</COFINS>
+			</imposto>
+			<impostoDevol>
+				<pDevol>5.00</pDevol>
+				<IPI>
+					<vIPIDevol>9.94</vIPIDevol>
+				</IPI>
+			</impostoDevol>
+		</det>
+		<det nItem="4">
+			<prod>
+				<cProd>74427</cProd>
+				<cEAN>SEM GTIN</cEAN>
+				<xProd>COB. SICAO BRANCA GOTAS 2,05KG</xProd>
+				<NCM>17049090</NCM>
+				<CFOP>6202</CFOP>
+				<uCom>UN</uCom>
+				<qCom>20.0000</qCom>
+				<vUnCom>25.0153333000</vUnCom>
+				<vProd>500.31</vProd>
+				<cEANTrib>SEM GTIN</cEANTrib>
+				<uTrib>UN</uTrib>
+				<qTrib>20.0000</qTrib>
+				<vUnTrib>25.0153333000</vUnTrib>
+				<indTot>1</indTot>
+			</prod>
+			<imposto>
+				<vTotTrib>134.89</vTotTrib>
+				<ICMS>
+					<ICMS00>
+						<orig>0</orig>
+						<CST>00</CST>
+						<modBC>3</modBC>
+						<vBC>500.31</vBC>
+						<pICMS>12.0000</pICMS>
+						<vICMS>60.04</vICMS>
+					</ICMS00>
+				</ICMS>
+				<PIS>
+					<PISOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pPIS>0.0000</pPIS>
+						<vPIS>0.00</vPIS>
+					</PISOutr>
+				</PIS>
+				<COFINS>
+					<COFINSOutr>
+						<CST>49</CST>
+						<vBC>0.00</vBC>
+						<pCOFINS>0.0000</pCOFINS>
+						<vCOFINS>0.00</vCOFINS>
+					</COFINSOutr>
+				</COFINS>
+			</imposto>
+			<impostoDevol>
+				<pDevol>5.00</pDevol>
+				<IPI>
+					<vIPIDevol>25.01</vIPIDevol>
+				</IPI>
+			</impostoDevol>
+		</det>
+		<total>
+			<ICMSTot>
+				<vBC>1872.23</vBC>
+				<vICMS>224.67</vICMS>
+				<vICMSDeson>0.00</vICMSDeson>
+				<vFCP>0.00</vFCP>
+				<vBCST>0.00</vBCST>
+				<vST>0.00</vST>
+				<vFCPST>0.00</vFCPST>
+				<vFCPSTRet>0.00</vFCPSTRet>
+				<vProd>1872.23</vProd>
+				<vFrete>0.00</vFrete>
+				<vSeg>0.00</vSeg>
+				<vDesc>0.00</vDesc>
+				<vII>0.00</vII>
+				<vIPI>0.00</vIPI>
+				<vIPIDevol>34.96</vIPIDevol>
+				<vPIS>0.00</vPIS>
+				<vCOFINS>0.00</vCOFINS>
+				<vOutro>0.00</vOutro>
+				<vNF>1907.19</vNF>
+				<vTotTrib>444.12</vTotTrib>
+			</ICMSTot>
+		</total>
+		<transp>
+			<modFrete>0</modFrete>
+			<vol>
+				<qVol>65</qVol>
+				<pesoL>4.150</pesoL>
+				<pesoB>4.150</pesoB>
+			</vol>
+		</transp>
+		<pag>
+			<detPag>
+				<tPag>90</tPag>
+				<vPag>0.00</vPag>
+			</detPag>
+		</pag>
+		<infAdic>
+			<infCpl>[Cod.Cliente.: F-40088] ;Total IPI na Devolucao: R$ 34,96 Nro Nota Referenciada: 60277</infCpl>
+		</infAdic>
+	</infNFe>
+	<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+		<SignedInfo>
+			<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+			<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+			<Reference URI="#NFe35200710331198000140550010001164431221267048">
+				<Transforms>
+					<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+					<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				</Transforms>
+				<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+				<DigestValue>SpOK0p/52F7xuFo0Imn16NCkOPs=</DigestValue>
+			</Reference>
+		</SignedInfo>
+		<SignatureValue>LVSQgRE4bsg2FNlPbUF7Tz3h/lE4WBdgMXkyR/g9/PILeYyUNev0NFC+aHJgxyusXC5xF03vTzI9NPhyMpy+BC7Jrx3HopW5lqC45I8wrHh69pp7wV+YieJ01wJp60wQsVnjGcrJD0FC2HPEPfATOknGn6NfSRrOgKI5ffm0yJPas4iqm5v0IgmV3Yg/hRQobUNEqnMU1vhD56yg1BAlMuJPS39xS0NEhNgCV9HJszUQ4sp933ruyBok8vu/YFccL8u6GZCk91VJebFI4HWAZkr5XKY5RVD6WqxGK6E8p2VSGBsLeo7rVEAavIhk0gV16BMKU3VQiUTNKdeHdn+FqQ==</SignatureValue>
+		<KeyInfo>
+			<X509Data>
+				<X509Certificate>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</X509Certificate>
+			</X509Data>
+		</KeyInfo>
+	</Signature>
+</NFe>
