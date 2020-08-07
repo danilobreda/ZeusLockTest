@@ -54,7 +54,12 @@ namespace TesteCacheZeus
         }
 
         private static XmlSerializer BuscarNoCache(string chave, Type type)
-        {
+        { 
+            if (CacheSerializers.Contains(chave))
+            {
+                return (XmlSerializer)CacheSerializers[chave];
+            }
+
             lock (type)
             {
                 if (CacheSerializers.Contains(chave))
